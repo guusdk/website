@@ -15,6 +15,11 @@ theme = "coder"
   weight = 1
   url = "https://github.com/XMPP-Developers-Foundation"
 
+[[params.social]]
+  name = "Discourse"
+  weight = 2
+  url = "https://discourse.xmpp-developers.foundation"
+
 [[menu.main]]
   name = "Projects"
   url = "/projects/"
